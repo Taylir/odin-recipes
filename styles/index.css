@@ -1,0 +1,19 @@
+ul {
+  margin: 55px;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  place-items: center;
+  gap: 2rem;
+}
+
+img {
+  height: 100%;
+  width: 100%;
+  border-radius: 16px;
+  background-position: center;
+  background-size: contain;
+}
+
+li {
+  list-style: none;
+}

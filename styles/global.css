@@ -1,0 +1,19 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+  background-color: #242424;
+  padding: 12px 16px;
+  border-radius: 12px;
+  border: 1px solid white;
+  transition: all 200ms ease-in-out;
+}
+
+a:hover {
+  background-color: #626262;
+}
